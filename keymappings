@@ -1,0 +1,106 @@
+<Vowels>	
+अ	:A
+आ	:AA
+इ	:I
+ई	:EE
+उ	:U
+ऊ	:OO
+ऋ	:~R
+ॠ	:~RR
+ऌ	:~L
+ॡ	:~LL
+ऎ	:qE
+ए	:E
+ऍ	:~E
+ऐ	:EI
+ऒ	:qO
+ओ	:O
+औ	:OU
+ॲ	:~A
+ऑ	:~AA
+ऽ	:-
+ॐ	:OM
+<Consonant>
+क	:k
+ख	:kh
+ग	:g
+घ	:gh
+ङ	:~N
+च	:c
+छ	:ch
+ज	:j
+झ	:jh
+ञ	:~n
+ट	:T
+ठ	:Th
+ड	:D
+ढ	:Dh
+ण	:N
+त	:t
+थ	:th
+द	:d
+ध	:dh
+न	:n
+प	:p
+फ	:ph
+ब	:b
+भ	:bh
+म	:m
+य	:y
+र	:r
+ल	:l
+व	:v
+श	:sh
+ष	:Sh
+स	:s
+ह	:H
+ळ	:L
+<Consonants with Nuqta>
+क़	:q
+ख़	:K
+ग़	:G
+ज़	:J
+फ़	:f
+ड़	:R
+ढ़	:Rh
+<Irregular consonant cluster>
+क्ष	:k`sh
+त्र	:t`r
+ज्ञ	:d`n`y
+श्र	:sh`r
+<@Vowels>
+ा	:a
+ी	:ee
+ि	:i
+ु	:u
+ू	:oo
+ृ	:~r
+ॢ	:~l
+े	:e
+ै	:ei
+ो	:o
+ौ	:ou
+ं	:x
+ः	:z
+ँ	:~x
+्	:`
+ॅ	:~a
+ॉ	:~aa
+़	:w (nukta)
+<Punctuations>
+(space)	 
+.
+,
+'
+"
+(
+)
+?
+!
+_
+-
++
+=
+&
+*
+<END>
